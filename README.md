@@ -7,7 +7,7 @@ This project is a fully interactive **Call Center Performance Dashboard** built 
 It visualizes key call-center metrics, trends, and representative performance using clean and professional charts.
 
 ---
-
+![Dashboard Preview](image.png)
 ##  Dashboard Overview
 
 The dashboard provides a complete view of call-center performance, including:
